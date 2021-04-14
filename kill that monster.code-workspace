@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\pro-c34+images"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Project-Template-PRO-C34-main"
+	}
+}
